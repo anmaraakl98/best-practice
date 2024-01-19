@@ -1,0 +1,11 @@
+{
+    "name": "Airline",
+    "alias": "airline",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Airline\\app\\Providers\\AirlineServiceProvider"
+    ],
+    "files": []
+}
